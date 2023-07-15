@@ -1,7 +1,7 @@
 
 ## Environment Variables Explaination
 
-You need a separate S3 Media bucket !
+You need a separate S3 Media bucket!
 
 `POSTGRES_HOST` : Your Postgres DB host  
 `POSTGRES_USERNAME` : Your Postgres DB username  
