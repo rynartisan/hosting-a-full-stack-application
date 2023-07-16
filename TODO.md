@@ -5,8 +5,8 @@
 ---
 > ### Write code that demonstrates parameterized environment variables
 
-- [ ] I need to go through each project and read the code from end to end.
-- [ ] Create environment variables where needed.
+- [X] I need to go through each project and read the code from end to end.
+- [X] Create environment variables where needed.
 
 > ### Write a project-level package.json file and organize it properly
 
