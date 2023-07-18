@@ -22,18 +22,18 @@
 ---
 > ### Trigger a successful pipeline on each push to the main branch
 
-- [ ] Create a CircleCi account.
-- [ ] Link the account to your GitHub account/this project.
-- [ ] Make sure any commits to the main account will trigger the pipeline.
+- [X] Create a CircleCi account.
+- [X] Link the account to your GitHub account/this project.
+- [X] Make sure any commits to the main account will trigger the pipeline.
 
 > ### Write a proper pipeline file using the config.yml format used by CircleCi
 
-- [ ] Review the section on how to write a proper pipeline for CircleCi.
-- [ ] Add comments for each step.
+- [X] Review the section on how to write a proper pipeline for CircleCi.
+- [X] Add comments for each step.
 
 > ### Configure secrets via the Continuous Integration software
 
-- [ ] Figure out what this means by reviewing the CI section.
+- [X] Figure out what this means by reviewing the CI section.
 
 ---
 > ## Documenting Deployment Process
