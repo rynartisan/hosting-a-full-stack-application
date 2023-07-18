@@ -10,12 +10,12 @@
 
 > ### Write a project-level package.json file and organize it properly
 
-- [ ] Create build and test scripts for the parent project.
+- [X] Create build and test scripts for the parent project.
 
 > ### Configure the needed infrastructure for a web application
 
-- [ ] Create S3 storage, elastic bean container and the database.
-- [ ] I need to make a separate storage for media/hosting.
+- [X] Create S3 storage, elastic bean container and the database.
+- [X] I need to make a separate storage for media/hosting.
 
 ---
 > ## Configuring Continuous Integration Pipeline with GitHub
