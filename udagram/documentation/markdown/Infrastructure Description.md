@@ -1,10 +1,10 @@
-# System Architecture
+# Infrastructure Description
 
 **Udagram** is built on
 the [3 tier architecture](https://en.wikipedia.org/wiki/Multitier_architecture#Three-tier_architecture) where there is a
 presentation tier, application tier and data tier.
 
-## System Diagram
+## System Architecture Diagram
 
 The below image shows an overview of the system architecture:
 ![](../assets/System%20Architecture.drawio.png)
