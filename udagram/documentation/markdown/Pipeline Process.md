@@ -8,15 +8,15 @@ Udagram utilizes a [CircleCi](https://circleci.com/) CI/CD pipeline for deployin
 
 ### 1. Build Steps
 
-- Spin up environment
-- Preparing environment variables
-- Install Node.js 14.15
-- Checkout code
-- Install Front-End Dependencies
-- Install API Dependencies
-- Front-End Lint
-- Front-End Build
-- API Build
+- Spin up environment.
+- Preparing environment variables.
+- Install Node.js 14.15.
+- Checkout code.
+- Install Front-End Dependencies.
+- Install API Dependencies.
+- Front-End Lint.
+- Front-End Build.
+- API Build.
 
 ![img.png](../assets/build pipeline screenshot.png)
 
@@ -27,13 +27,13 @@ This step needs to be taken by a human who has access to the CircleCi dashboard.
 
 ### 3. Deploy Steps
 
-- Spin up environment
-- Preparing environment variables
-- Install Node.js 14.15
-- Setting Up Elastic Beanstalk CLI
-- Install AWS CLI - latest
-- Configure AWS Access Key ID
-- Checkout code
-- Deploy App
+- Spin up environment.
+- Preparing environment variables.
+- Install Node.js 14.15.
+- Setting Up Elastic Beanstalk CLI.
+- Install AWS CLI - latest.
+- Configure AWS Access Key ID.
+- Checkout code.
+- Deploy App.
 
 ![img.png](../assets/deploy pipeline screenshot.png)
