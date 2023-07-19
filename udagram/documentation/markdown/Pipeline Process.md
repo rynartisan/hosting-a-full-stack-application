@@ -18,12 +18,12 @@ Udagram utilizes a [CircleCi](https://circleci.com/) CI/CD pipeline for deployin
 - Front-End Build.
 - API Build.
 
-![img.png](../assets/build pipeline.png)
+![img.png](../assets/build%20pipeline.png)
 
 ### 2. Manual Approval
 
 This step needs to be taken by a human who has access to the CircleCi dashboard.
-![img.png](../assets/approval pipeline.png)
+![img.png](../assets/approval%20pipeline.png)
 
 ### 3. Deploy Steps
 
@@ -36,4 +36,4 @@ This step needs to be taken by a human who has access to the CircleCi dashboard.
 - Checkout code.
 - Deploy App.
 
-![img.png](../assets/deploy pipeline.png)
+![img.png](../assets/deploy%20pipeline.png)
