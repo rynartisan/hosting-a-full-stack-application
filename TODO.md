@@ -40,11 +40,11 @@
 ---
 > ### Write code that demonstrates a well-organized docs folder
 
-- [ ] Create a documentation folder.
-- [ ] Main documentation markdown.
-- [ ] Document each subproject.
+- [X] Create a documentation folder.
+- [X] Main documentation markdown.
+- [X] Document each subproject.
 
 > ### Prepare an architecture diagram to document the deployment flow
 
-- [ ] Create a system diagram using draw.io.
-- [ ] Create a diagram of the pipeline.
+- [X] Create a system diagram using draw.io.
+- [X] Create a diagram of the pipeline.
